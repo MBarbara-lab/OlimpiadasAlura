@@ -1,4 +1,4 @@
-## Olimpíadas: A sua busca por atletas brasileiros!
+## Olimpíadas: A sua busca por atletas brasileiros! - Imersão Dev com Google Gemini e Alura
 
 **O que faz essa aplicação?**
 
